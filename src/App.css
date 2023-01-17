@@ -7,6 +7,10 @@ body {
   overflow: hidden;
 }
 
+.ex {
+  color: grey;
+}
+
 body::-webkit-scrollbar {
   display: none;
 }
